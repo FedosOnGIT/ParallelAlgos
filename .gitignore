@@ -48,3 +48,4 @@ bin/
 /.idea/kotlinc.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+/src/main/out/
